@@ -1,2 +1,3 @@
 # loja
-Loja Aulas
+Loja
+
